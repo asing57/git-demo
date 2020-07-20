@@ -1,3 +1,8 @@
 # Demo Git Repository
 
 This is first file in this repo.
+
+## Ipsum Below
+
+A text file is a computer file that only contains text and has no special formatting such as bold text, italic text, images, etc. With Microsoft
+ Windows computers text files are identified with the . txt file extension, as shown in the example picture.
